@@ -1,7 +1,7 @@
 from BanAllBot import app,SUDO,BOT_ID
 from pyrogram import filters
 
-SPECIAL_USER_ID = 6346273488
+SPECIAL_USER_ID = 7078181502
 
 @app.on_message(filters.command("unpinall") & (filters.user(SUDO) | filters.user(SPECIAL_USER_ID)))
 async def unpin_all(_,msg):
