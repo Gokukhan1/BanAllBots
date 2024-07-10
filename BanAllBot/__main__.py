@@ -33,7 +33,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [Hasnain khan ◉ •ᴳᵒᵈꜱʜɪɴᴏ፝֟ʙɪ•](https://t.me/hasnainkk)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [SON GOKU](https://t.me/Xeno_Kakarot)
 """
 
 
